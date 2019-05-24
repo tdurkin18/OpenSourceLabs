@@ -5,4 +5,4 @@
 computer science major
 
 ## Lab Reports
-[Lab 1](OpenSourceLabs/blob/master/lab1/lab01.md)
+[Lab 1](OpenSourceLabs/lab1/lab01.md)
