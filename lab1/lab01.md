@@ -34,5 +34,10 @@ licenses for the files.
   ![image](https://user-images.githubusercontent.com/47041789/58671579-29c57580-8311-11e9-857c-b48c7e7606a0.png)
 
   ![image](https://user-images.githubusercontent.com/47041789/58671609-3d70dc00-8311-11e9-83d9-adbdce255e32.png)
-## 19).
+## 18).
 ![image](https://user-images.githubusercontent.com/47041789/58652100-cde2f880-82e0-11e9-8ca4-4c1428e5e577.png)
+## 19).
+  I have already been working on an open source project in RCOS. The project I have been working on is Venue which is a web application.
+  I would like to work on an open source project which is phone app because that seems interesting to me. From the open source projects
+  on the website the python interpreter seems interesting because it creates an in depth analysis of your code. This is very useful
+  because it will help the coder understand what is happening in their code.
