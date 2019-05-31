@@ -1,0 +1,1 @@
+I would use a blessed repository so that only the project manager can push to repository.This allows the manager to look at all changes to the code before it is pushed to the repo. Other users can still pull from the blessed repo they just can't push.
