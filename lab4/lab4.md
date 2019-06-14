@@ -18,10 +18,10 @@ I agree with the claim because the Web did everything better than Gopher. The Go
 ## 5 Projects
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+http://www.opencircuits.io/ | Yes | BSD 3-Clause License
+https://rpi-late.herokuapp.com/| Yes | MIT License
+https://github.com/AutomaticDoorControl | Yes | MIT License
+https://runelite.net/ | Yes | BSD 2-Clause License
+https://github.com/rcos/venue | Yes | MIT License
 
 
