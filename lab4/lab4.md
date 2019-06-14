@@ -14,3 +14,9 @@ I agree with the claim because the Web did everything better than Gopher. The Go
 ## Can you justify why such a license is chosen based on the history, goals and philosophy of the project?
 
 
+
+## 5 Projects
+Website | License Present | License
+---------|:----------|:-------
+
+
