@@ -18,5 +18,6 @@ I agree with the claim because the Web did everything better than Gopher. The Go
 ## 5 Projects
 Website | License Present | License
 ---------|:----------|:-------
+https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
 
 
