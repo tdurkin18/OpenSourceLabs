@@ -11,12 +11,16 @@ $$
 
 ## My project
 Project: code buddy
+
 Contributors: 2
+
 Lines: 1336
+
 First Commit: March 19 2019
+
 Latest Commit: April 25 2019
-Current Branches:master
-		 add-code-of-conduct1
+
+Current Branches:master, add-code-of-conduct1
 		 
 When I ran gitstats on CodeBuddy the total lines of code different from the number I had earlier. Gitstats says the project has 1288 lines or code. Also, gitstats provides a lot more detail on how the files changed and how many commits each author made through graphs.
 		 
@@ -83,5 +87,5 @@ Commit information not provided
 Branch information not provided
 
 
-
+##Gource Image
 ![image](https://user-images.githubusercontent.com/47041789/59116536-c2638300-8919-11e9-9b0b-5eda787862fa.png)
