@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/headers/block.h
+
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/source/block.c
+stdio.h
+-
+string.h
+-
+../headers/block.h
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/headers/block.h
+

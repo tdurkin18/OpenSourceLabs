@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Shared.dir/program.c.o  -o Shared -Wl,-rpath,"/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5" libSharedSource.so 

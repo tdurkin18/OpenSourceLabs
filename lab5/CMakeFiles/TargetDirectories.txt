@@ -1,0 +1,6 @@
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/CMakeFiles/rebuild_cache.dir
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/CMakeFiles/Shared.dir
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/CMakeFiles/Static.dir
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/CMakeFiles/StaticSource.dir
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/CMakeFiles/edit_cache.dir
+/home/tdurkin/Desktop/Classes/Open Source Software/OpenSourceLabs/lab5/CMakeFiles/SharedSource.dir

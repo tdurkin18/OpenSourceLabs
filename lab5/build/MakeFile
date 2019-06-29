@@ -1,0 +1,23 @@
+all: static
+
+shared: program.o libblock.so
+	cc program.o libblock.so -o shared -Wl,-rpath='.'
+static: program.o libprint.a
+	cc program.o libprint.a -o static
+
+program.o:
+	cc -fPIC -c program.c -o program.o
+
+#shared library
+libblock.so: block.o
+	cc -shared -o libblock.so source/block.o
+#static library
+libprint.a: block.o
+	ar qc libprint.a source/block.o
+
+#the libraries dependencies
+block.o:
+	cc -fPIC -c source/block.c -o source/block.o
+
+clean:
+	rm -f *.o Makefile.bak

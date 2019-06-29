@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libDynamic.so -o libDynamic.so CMakeFiles/Dynamic.dir/block.c.o -lDynamicSource 
