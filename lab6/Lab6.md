@@ -7,6 +7,7 @@
 
 #Example 2
 ![Screenshot from 2019-07-12 11-13-54](https://user-images.githubusercontent.com/47041789/61581677-49964000-aaef-11e9-8ae0-9a652a2c41c5.png)
+![ex2](https://user-images.githubusercontent.com/47041789/61581755-4f405580-aaf0-11e9-902f-b61f4adb6ea1.png)
 
 
 #Example 3
