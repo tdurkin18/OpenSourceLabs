@@ -7,6 +7,7 @@ Four Letters:
 Five Letters:
 ![comp2](https://user-images.githubusercontent.com/47041789/61976046-bb233200-afb8-11e9-8717-e91e8d224d39.png)
 Code:
+
 ![compcode](https://user-images.githubusercontent.com/47041789/61976069-c5453080-afb8-11e9-9598-6442975cf9e4.png)
 
 # Plot Words Unordered
@@ -15,6 +16,7 @@ Four Letters:
 Five Letters:
 ![Screenshot from 2019-07-26 15-13-15](https://user-images.githubusercontent.com/47041789/61976129-f32a7500-afb8-11e9-835d-2dbe9fc42882.png)
 Code:
+
 ![lastcode](https://user-images.githubusercontent.com/47041789/61976141-faea1980-afb8-11e9-8f1a-d45ae1495e5e.png)
 
 
