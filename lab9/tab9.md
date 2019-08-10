@@ -16,7 +16,7 @@ Results are close
 ![Screenshot from 2019-08-09 22-30-03](https://user-images.githubusercontent.com/47041789/62816498-95d50e80-baf6-11e9-82eb-3da81f3dcd3c.png)
 Results are correct
 
-![shoes](https://user-images.githubusercontent.com/47041789/62816603-07fa2300-baf8-11e9-8816-1432b77fc92a.jpg)
+![shoesog](https://user-images.githubusercontent.com/47041789/62816615-3bd54880-baf8-11e9-88ea-3b015539674c.jpg)
 ![shoes](https://user-images.githubusercontent.com/47041789/62816487-76d67c80-baf6-11e9-942e-30efc92675c2.jpg)
 ![Screenshot from 2019-08-09 22-30-55](https://user-images.githubusercontent.com/47041789/62816504-a1c0d080-baf6-11e9-95ca-232455431977.png)
 Results are a little off
