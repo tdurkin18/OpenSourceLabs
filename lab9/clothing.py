@@ -19,7 +19,7 @@ class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
 
 
 
-images = np.expand_dims(np.array(Image.open("shirt.jpg")), 0)
+images = np.expand_dims(np.array(Image.open("shoes.jpg")), 0)
 print(images.shape)
 
 # plt.figure()
